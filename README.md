@@ -1,1 +1,1 @@
-# webtypeclassjs
+# webtypeclass
